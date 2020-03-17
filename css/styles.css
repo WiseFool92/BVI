@@ -1,0 +1,14 @@
+h1{
+    color: orange;
+    text-align: center;
+    font-size: Bold;
+}
+p { 
+    font-family: sans-serif;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    line-height: 30px;
+}
